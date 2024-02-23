@@ -2,7 +2,7 @@
 title: "Java - LocalDate dan LocalDateTime"
 seoTitle: "LocalDateTime"
 seoDescription: "LocalDateTime Pada Java"
-datePublished: Fri Feb 23 2024 14:10:34 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Feb 22 2024 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clsyqc287000609jje3mz1jot
 slug: java-localdate-dan-localdatetime
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oWUx0ON3EVc/upload/4192c01c988b0073eb169c1e0579b9b3.jpeg
