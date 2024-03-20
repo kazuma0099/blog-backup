@@ -3,6 +3,7 @@ title: "Mengexclude Code yang digenerate oleh Lombok pada coverage report"
 datePublished: Wed Mar 20 2024 04:10:24 GMT+0000 (Coordinated Universal Time)
 cuid: cltzacebt000209l87wz95h71
 slug: mengexclude-code-yang-digenerate-oleh-lombok-pada-coverage-report
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/EWLHA4T-mso/upload/d4bd070954ef3f16824a82692501e45b.jpeg
 tags: unit-testing, java, code-coverage, lombok
 
 ---
@@ -46,6 +47,8 @@ public class Product {
 ```
 
 untuk dua method di atas `updateProduct` dan `convertToDTO` sudah dibuat unit testnya namun ketika cek coverage reportnya, cukup mengesankan.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710908026298/a2832d68-f928-42a4-806a-10a4f91ffc3e.jpeg align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710823224508/238d2d5e-1234-4592-8a3b-f39f9ec7809e.png align="center")
 
